@@ -1,0 +1,14 @@
+body{
+  color:#33333;
+  font-family: sans-serif;
+  background-color: #27556c;
+}
+
+h1,h2,h3,p,ul{
+  text-align: center;
+}
+a{
+  color: ooacff;
+  text-decoration: none;
+  font-size: 1.5em;
+}
